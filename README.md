@@ -4,7 +4,8 @@ AlgoRude is a web application that provides a clean, modern interface for intera
 
 Live Demo
 Check out the live demo: https://coruscating-baklava-240419.netlify.app/
-![AlgoRude Screenshot](./Screenshot 2025-07-17 183005.png)
+
+![AlgoRude Screenshot](algos1.png)
 
 Features
 
