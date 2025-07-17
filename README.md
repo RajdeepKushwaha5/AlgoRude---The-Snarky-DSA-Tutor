@@ -7,6 +7,9 @@ Check out the live demo: https://coruscating-baklava-240419.netlify.app/
 
 ![AlgoRude Screenshot](algos1.png)
 
+
+![AlgoRude Screenshot](algos2.png)
+
 Features
 
 Modern Interface: Includes a header, input area, and response display section for a clean user experience.
